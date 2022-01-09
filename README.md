@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 📫 How to reach me **hello@onejanik.de**
+- 📫 How to reach me **onejanik@onejanik.de**
 
 
 <h3 align="left">Languages and Tools:</h3>
