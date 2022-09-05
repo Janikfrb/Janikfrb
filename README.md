@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Janik</h1>
-<h3 align="center">a little Dev doing cool stuff</h3>
+<h3 align="center">A little Developer, doing cool stuff!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janikfrb&label=Profile%20views&color=0e75b6&style=flat" alt="janikfrb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janikfrb" alt="janikfrb" /></a> </p>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **PHP** and **node.js**
 
-- 📫 How to reach me **onejanik@onejanik.de**
+- 📫 How to reach me **onejanik@onejanik.xyz**
 
 
 <h3 align="left">Languages and Tools:</h3>
